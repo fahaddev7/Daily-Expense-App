@@ -1,0 +1,1 @@
+A Daily Expense App built in Flutter 
